@@ -23,7 +23,7 @@ export default function Home() {
           <div className="mb-4">Task 1: Creating an interactive file structure. <Link href='https://react-eval-weld.vercel.app/' target="_blank" className="text-green-500 font-mono px-4">View Deployment</Link> </div>
           <div>Task 2: Lazy loading using Infinite scroll without third party libraries. <Link href='https://book-finder-gray.vercel.app/' target="_blank" className="text-green-500 font-mono px-4">View Deployment</Link></div>
         </div>
-        <div>GitLab link: <Link href='/' className="text-green-500">Click here</Link></div>
+        <div>GitLab link: <Link href='https://gitlab.com/mygroup2120049/evaluation' className="text-green-500">Click here</Link></div>
       </div>
     </>
   )
